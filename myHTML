@@ -82,7 +82,7 @@
 </head>
 <body>
   <div class="card">
-    <img src="https://i.pravatar.cc/150?img=12" alt="Foto Pebry" class="profile-img" />
+    <img src="myphoto.jpg" class="profile-img" />
     <h1 class="glow">Pebry Hamzani</h1>
     <p>Mahasiswa Program Studi <strong>Matematika</strong></p>
   </div>
